@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source /home/rustam/venv/bin/activate
+python /opt/prekol.py
+deactivate
